@@ -1,3 +1,3 @@
 # hello-world
 super terrific description
-super duper
+super duper and terrific
